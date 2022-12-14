@@ -1,0 +1,13 @@
+{
+  "name": "multi-arch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "docker:build": "./build.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
